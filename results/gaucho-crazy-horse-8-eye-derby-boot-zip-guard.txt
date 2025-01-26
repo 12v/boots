@@ -34,8 +34,8 @@ UK 11 / Small: true
 UK 11 / Large: true
 UK 11.5 / Small: true
 UK 11.5 / Large: true
-UK 12 / Small: true
-UK 12 / Large: true
+UK 12 / Small: false
+UK 12 / Large: false
 UK 13 / Small: false
 UK 13 / Large: false
 UK 14 / Small: false
