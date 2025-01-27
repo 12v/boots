@@ -16,6 +16,6 @@ UK 10: true
 UK 10.5: false
 UK 11: true
 UK 11.5: false
-UK 12: false
+UK 12: true
 UK 13: false
 UK 14: false
