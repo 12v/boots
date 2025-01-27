@@ -1,5 +1,5 @@
 UK 6: true
-UK 6.5: false
+UK 6.5: true
 UK 7: true
 UK 7.5: true
 UK 8: true
