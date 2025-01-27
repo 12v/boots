@@ -12,7 +12,7 @@ UK 8: true
 UK 8.5: true
 UK 9: true
 UK 9.5: false
-UK 10: true
+UK 10: false
 UK 10.5: true
 UK 11: true
 UK 11.5: false

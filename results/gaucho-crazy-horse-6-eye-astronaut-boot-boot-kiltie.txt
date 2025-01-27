@@ -26,8 +26,8 @@ UK 9 / Small: true
 UK 9 / Large: true
 UK 9.5 / Small: true
 UK 9.5 / Large: true
-UK 10 / Small: true
-UK 10 / Large: true
+UK 10 / Small: false
+UK 10 / Large: false
 UK 10.5 / Small: false
 UK 10.5 / Large: false
 UK 11 / Small: false
